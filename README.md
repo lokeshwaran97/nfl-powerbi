@@ -1,7 +1,7 @@
 # nfl-powerbi
 # National Football League Power BI Dashboard
 
-![Dashboard Preview](https://drive.google.com/file/d/1qVJC5MSEsZcLpIRs_3aHSdPNJO2ackdg/view?usp=sharing)
+![Dashboard Preview](https://drive.google.com/file/d/1qVJC5MSEsZcLpIRs_3aHSdPNJO2ackdg/view)
 
 ## Overview
 
