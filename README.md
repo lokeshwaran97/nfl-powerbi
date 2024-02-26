@@ -1,7 +1,7 @@
 # nfl-powerbi
 # National Football League Power BI Dashboard
 
-![Dashboard Preview](https://drive.google.com/uc?export=view&id=1qVJC5MSEsZcLpIRs_3aHSdPNJO2ackdg)
+![Dashboard Preview](https://drive.google.com/uc?export=view&id=1suV06fDtoi89fboT08GGdCn4hX8ch0Dq)
 
 ## Overview
 
@@ -18,7 +18,7 @@ I developed a Power BI dashboard that provides insights into the National Footba
 
 ## How to Use
 
-[Power Bi file](https://drive.google.com/file/d/1yTya0M8xp5AlT4h6kgELnxpdCsXix114/view?usp=drive_link)
+[Power Bi file](https://drive.google.com/file/d/1NR1mmNl2RP1a5aR70uDWYJGjPBDofbks/view?usp=drive_link)
 
 
 from the drive link download the PowerBI file. open the file and change the datasource locations to your locally downloaded dataset location.
